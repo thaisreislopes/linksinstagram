@@ -1,0 +1,43 @@
+{
+  "linksinstagram": [
+    {
+      "id": 1,
+      "title": "@thaisreis.nails",
+      "url": "https://www.instagram.com/thaisreis.nails/"
+    },
+    {
+      "id": 2,
+      "title": "Agendamentos",
+      "url": "http://bit.ly/WTHAgendar"
+    },
+    {
+      "id": 3,      
+      "title": "Facebook",
+      "url": "https://www.facebook.com/thaisr.espaconails"
+    },
+    {
+      "id": 4,      
+      "title": "Localização",
+      "url": "https://www.google.com.br/maps/dir//-25.4437278,-54.4028833/@-25.4437629,-54.4029315,21z/data=!4m2!4m1!3e0"
+    }
+  ],
+  "perfil": [
+    {
+      "id": 1,
+      "title": "@thaisr.espaconails",
+      "urlavatar": "https://thaisreisnails.com.br/static/media/avatarimage.07151245.jpg"
+    },
+    {
+      "id": 2,
+      "title": "@thaisreis.nails",
+      "urlavatar": "https://www.instagram.com/thaisreis.nails/"
+    }
+  ],
+  "dev": [
+    {
+      "id": 1,
+      "title": "By: Anderson Lopes",
+      "url": "https://www.instagram.com/andersonlopsantos/"
+    }
+  ]
+}
