@@ -2,21 +2,25 @@
   "linksinstagram": [
     {
       "id": 1,
+      "icon": "FiInstagram",
       "title": "@thaisreis.nails",
       "url": "https://www.instagram.com/thaisreis.nails/"
     },
     {
       "id": 2,
+      "icon":"FiCalendar"
       "title": "Agendamentos",
       "url": "http://bit.ly/WTHAgendar"
     },
     {
-      "id": 3,      
+      "id": 3,
+      "icon":"FiFacebook"
       "title": "Facebook",
       "url": "https://www.facebook.com/thaisr.espaconails"
     },
     {
-      "id": 4,      
+      "id": 4,
+      "icon":"FiMapPin"
       "title": "Localização",
       "url": "https://www.google.com.br/maps/dir//-25.4437278,-54.4028833/@-25.4437629,-54.4029315,21z/data=!4m2!4m1!3e0"
     }
