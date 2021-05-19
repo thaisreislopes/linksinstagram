@@ -22,14 +22,14 @@
       "id": 4,
       "icon":"FiMapPin",
       "title": "Localização",
-      "url": "logo-thais-reis-nails-rose.jpg"
+      "url": "https://www.google.com.br/maps/dir//-25.4437278,-54.4028833/@-25.4437629,-54.4029315,21z/data=!4m2!4m1!3e0"
     }
   ],
   "perfil": [
     {
       "id": 1,
       "title": "@thaisr.espaconails",
-      "urlavatar": "https://thaisreisnails.com.br/static/media/avatarimage.07151245.jpg"
+      "urlavatar": "logo-thais-reis-nails-rose.jpg"
     },
     {
       "id": 2,
